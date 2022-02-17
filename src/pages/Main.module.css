@@ -1,0 +1,12 @@
+.addingBtn {
+  width: 100px;
+  height: 100px;
+  margin: 20px 0 20px 90%;
+  border: solid 3px #fff;
+  border-radius: 50px;
+  font-size: 40px;
+}
+
+.addingBtn:hover {
+  background-color: #935946;
+}

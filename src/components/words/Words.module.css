@@ -1,0 +1,19 @@
+.item {
+  width: 100%;
+}
+.example {
+  color: #008f95;
+}
+
+.btn {
+  margin: 10px 10px 0 75%;
+  width: 20%;
+  display: block;
+  align-items: flex-end;
+  border: solid 3px #fff;
+  border-radius: 10px;
+}
+
+.btn:hover {
+  background-color: #935946;
+}

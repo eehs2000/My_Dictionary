@@ -1,0 +1,21 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: #1e3d59;
+}
+
+h1 {
+  margin: 20px 0 15px 30px;
+  font-family: "Caveat", cursive;
+  color: #ff6e40;
+}
+
+button {
+  background-color: #ff6e40;
+  color: #1e3d59;
+  padding: 0.5rem 1rem;
+  border-radius: 2px;
+  margin: 10px;
+}
